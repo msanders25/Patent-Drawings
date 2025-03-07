@@ -2,7 +2,7 @@
 
 ## Drawing Overview
 
-The purpose of this repository is to showcase various patent drawings I have completed while working as a Patent Illustrator. I have been working in this field since 2017 creating drawings for various inventions and products across several industries such as manufacturing, electrical, architectural, and healthcare. I use CAD programs such as AutoCAD, Inventor, and OnShape to make the drawings.
+This repository serves to highlight a collection of patent illustrations I have created throughout my career as a Patent Illustrator. Since 2017, I have had the privilege of working in this field, producing detailed drawings for a diverse range of inventions and products across industries including manufacturing, electrical, architecture, and healthcare. My expertise in utilizing CAD software such as AutoCAD, Inventor, and OnShape enables me to deliver precise and high-quality illustrations tailored to the specific needs of each patent application.
 
 The example patents I have selected to showcase are listed below. Click *[HERE](https://github.com/msanders25/Patent-Drawings/blob/main/Patent%20Portfolio.pdf)* to view the patent drawings.
 
@@ -20,4 +20,4 @@ The example patents I have selected to showcase are listed below. Click *[HERE](
 - Package Delivery System
 - Various Sample Drawings
 
-Price range for these drawings ranges from $75 - $150 per sheet. Contact me at sanderspatentdwgs@gmail.com for a quote.
+Price range for these drawings ranges from $85 - $150 per sheet. Contact me at sanderspatentdwgs@gmail.com for a quote.
