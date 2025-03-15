@@ -20,4 +20,4 @@ The example patents I have selected to showcase are listed below. Click *[HERE](
 - Package Delivery System
 - Various Sample Drawings
 
-Price range for these drawings ranges from $85 - $150 per sheet. Contact me at sanderspatentdwgs@gmail.com for a quote.
+Price range for these drawings ranges from $90 - $150 per sheet. Contact me at sanderspatentdwgs@gmail.com for a quote.
